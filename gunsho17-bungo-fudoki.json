@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/bungo-fudoki",
  "yomi": "ぶんごのくにふどき",
  "category": "地誌",
- "description": null,
+ "description": {
+  "kind": "風土記",
+  "era": "奈良時代",
+  "author": "未詳（豊後国司）",
+  "desc": "豊後国の風土記。郡ごとに、地名の由来を景行天皇の巡幸伝承などで説く。伝本は抄録本で、本文は簡略になっている。"
+ },
  "editions": [
   {
    "pid": "1879565",
